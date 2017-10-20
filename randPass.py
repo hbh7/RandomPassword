@@ -8,7 +8,7 @@ try:
     import datetime
     
 except ImportError:
-    print("Python" + str(sys.version) + "is not installed correctly.")
+    print("Python" + str(sys.version) + "is not installed correctly. OMG get REKT m8 u suk")
 
 class Password:
     def __init__(self):
